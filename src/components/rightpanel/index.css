@@ -1,0 +1,13 @@
+form {
+  text-align: left;
+  padding: 2em;
+}
+
+textarea {
+  width: 75%;
+  min-height: 100px;
+}
+
+.paddingLeft {
+  padding-left: 10px;
+}

@@ -1,0 +1,469 @@
+{
+  "collection": {
+    "items": [
+      {
+        "entity": {
+          "data": {
+            "id": 200,
+            "type": {
+              "prefix": "KE",
+              "id": 1,
+              "name": "Known Error"
+            },
+            "number": "KE-223",
+            "summary": "Auto Test KI Summary",
+            "isPrivate": false,
+            "author": {
+              "id": 5280,
+              "name": "Horseman, Lennie"
+            },
+            "service": null,
+            "status": {
+              "id": 2,
+              "name": "Planned"
+            },
+            "updatedOn": "2022-04-12T08:30:36.577Z",
+            "createdOn": "2022-04-12T08:30:36.577Z",
+            "nextReviewOn": null
+          },
+          "name": "KnowledgeItemIndexResponse"
+        },
+        "links": [
+          {
+            "name": "self",
+            "displayName": "200",
+            "href": "https://challenger.marval.co.uk/MSM/api/serviceDesk/operational/knowledgeItems/200?includeLogicallyDeleted=False"
+          }
+        ]
+      },
+      {
+        "entity": {
+          "data": {
+            "id": 199,
+            "type": {
+              "prefix": "KE",
+              "id": 1,
+              "name": "Known Error"
+            },
+            "number": "KE-222",
+            "summary": "Auto Test KI Summary",
+            "isPrivate": false,
+            "author": {
+              "id": 5280,
+              "name": "Horseman, Lennie"
+            },
+            "service": null,
+            "status": {
+              "id": 2,
+              "name": "Planned"
+            },
+            "updatedOn": "2022-04-12T08:30:26.717Z",
+            "createdOn": "2022-04-12T08:30:26.717Z",
+            "nextReviewOn": null
+          },
+          "name": "KnowledgeItemIndexResponse"
+        },
+        "links": [
+          {
+            "name": "self",
+            "displayName": "199",
+            "href": "https://challenger.marval.co.uk/MSM/api/serviceDesk/operational/knowledgeItems/199?includeLogicallyDeleted=False"
+          }
+        ]
+      },
+      {
+        "entity": {
+          "data": {
+            "id": 198,
+            "type": {
+              "prefix": "KE",
+              "id": 1,
+              "name": "Known Error"
+            },
+            "number": "KE-221",
+            "summary": "Auto Test KI Summary",
+            "isPrivate": false,
+            "author": {
+              "id": 5280,
+              "name": "Horseman, Lennie"
+            },
+            "service": null,
+            "status": {
+              "id": 2,
+              "name": "Planned"
+            },
+            "updatedOn": "2022-04-11T21:32:22.02Z",
+            "createdOn": "2022-04-11T21:32:22.02Z",
+            "nextReviewOn": null
+          },
+          "name": "KnowledgeItemIndexResponse"
+        },
+        "links": [
+          {
+            "name": "self",
+            "displayName": "198",
+            "href": "https://challenger.marval.co.uk/MSM/api/serviceDesk/operational/knowledgeItems/198?includeLogicallyDeleted=False"
+          }
+        ]
+      },
+      {
+        "entity": {
+          "data": {
+            "id": 197,
+            "type": {
+              "prefix": "KE",
+              "id": 1,
+              "name": "Known Error"
+            },
+            "number": "KE-220",
+            "summary": "Auto Test KI Summary",
+            "isPrivate": false,
+            "author": {
+              "id": 5280,
+              "name": "Horseman, Lennie"
+            },
+            "service": null,
+            "status": {
+              "id": 2,
+              "name": "Planned"
+            },
+            "updatedOn": "2022-04-11T21:32:20.643Z",
+            "createdOn": "2022-04-11T21:32:20.643Z",
+            "nextReviewOn": null
+          },
+          "name": "KnowledgeItemIndexResponse"
+        },
+        "links": [
+          {
+            "name": "self",
+            "displayName": "197",
+            "href": "https://challenger.marval.co.uk/MSM/api/serviceDesk/operational/knowledgeItems/197?includeLogicallyDeleted=False"
+          }
+        ]
+      },
+      {
+        "entity": {
+          "data": {
+            "id": 196,
+            "type": {
+              "prefix": "FA",
+              "id": 2,
+              "name": "FAQ"
+            },
+            "number": "FA-219",
+            "summary": "KI with keywords",
+            "isPrivate": true,
+            "author": {
+              "id": 5222,
+              "name": "Baranski, Arkadiusz 5222"
+            },
+            "service": {
+              "id": 23,
+              "name": "Printing"
+            },
+            "status": {
+              "id": 2,
+              "name": "Planned"
+            },
+            "updatedOn": "2022-04-11T21:26:13.323Z",
+            "createdOn": "2022-04-11T14:22:39.43Z",
+            "nextReviewOn": null
+          },
+          "name": "KnowledgeItemIndexResponse"
+        },
+        "links": [
+          {
+            "name": "self",
+            "displayName": "196",
+            "href": "https://challenger.marval.co.uk/MSM/api/serviceDesk/operational/knowledgeItems/196?includeLogicallyDeleted=False"
+          }
+        ]
+      },
+      {
+        "entity": {
+          "data": {
+            "id": 195,
+            "type": {
+              "prefix": "FA",
+              "id": 2,
+              "name": "FAQ"
+            },
+            "number": "FA-218",
+            "summary": "tHIRD pARTY ..max length there are 500 characters ..................................................",
+            "isPrivate": true,
+            "author": {
+              "id": 5238,
+              "name": "Tester, UI_Automation"
+            },
+            "service": null,
+            "status": {
+              "id": 1,
+              "name": "Published"
+            },
+            "updatedOn": "2022-04-10T00:39:44.28Z",
+            "createdOn": "2022-04-07T11:00:31.143Z",
+            "nextReviewOn": null
+          },
+          "name": "KnowledgeItemIndexResponse"
+        },
+        "links": [
+          {
+            "name": "self",
+            "displayName": "195",
+            "href": "https://challenger.marval.co.uk/MSM/api/serviceDesk/operational/knowledgeItems/195?includeLogicallyDeleted=False"
+          }
+        ]
+      },
+      {
+        "entity": {
+          "data": {
+            "id": 194,
+            "type": {
+              "prefix": "KE",
+              "id": 1,
+              "name": "Known Error"
+            },
+            "number": "KE-217",
+            "summary": "Test the filter Next Review On",
+            "isPrivate": false,
+            "author": {
+              "id": 5238,
+              "name": "Tester, UI_Automation"
+            },
+            "service": null,
+            "status": {
+              "id": 2,
+              "name": "Planned"
+            },
+            "updatedOn": "2022-04-10T00:40:04.79Z",
+            "createdOn": "2022-04-04T16:12:42.127Z",
+            "nextReviewOn": "2022-04-11T23:00:00Z"
+          },
+          "name": "KnowledgeItemIndexResponse"
+        },
+        "links": [
+          {
+            "name": "self",
+            "displayName": "194",
+            "href": "https://challenger.marval.co.uk/MSM/api/serviceDesk/operational/knowledgeItems/194?includeLogicallyDeleted=False"
+          }
+        ]
+      },
+      {
+        "entity": {
+          "data": {
+            "id": 193,
+            "type": {
+              "prefix": "FA",
+              "id": 2,
+              "name": "FAQ"
+            },
+            "number": "FA-216",
+            "summary": "tHIRD pARTY ..max length there are 500 characters ..................................................",
+            "isPrivate": true,
+            "author": {
+              "id": 5238,
+              "name": "Tester, UI_Automation"
+            },
+            "service": null,
+            "status": {
+              "id": 2,
+              "name": "Planned"
+            },
+            "updatedOn": "2022-04-06T14:33:15.207Z",
+            "createdOn": "2022-04-04T15:28:17.693Z",
+            "nextReviewOn": null
+          },
+          "name": "KnowledgeItemIndexResponse"
+        },
+        "links": [
+          {
+            "name": "self",
+            "displayName": "193",
+            "href": "https://challenger.marval.co.uk/MSM/api/serviceDesk/operational/knowledgeItems/193?includeLogicallyDeleted=False"
+          }
+        ]
+      },
+      {
+        "entity": {
+          "data": {
+            "id": 192,
+            "type": {
+              "prefix": "AD",
+              "id": 5,
+              "name": "Advice"
+            },
+            "number": "AD-215",
+            "summary": "FILTER BY 3. PARTY ",
+            "isPrivate": false,
+            "author": {
+              "id": 5238,
+              "name": "Tester, UI_Automation"
+            },
+            "service": null,
+            "status": {
+              "id": 2,
+              "name": "Planned"
+            },
+            "updatedOn": "2022-04-06T14:43:40.613Z",
+            "createdOn": "2022-04-04T15:26:08.97Z",
+            "nextReviewOn": null
+          },
+          "name": "KnowledgeItemIndexResponse"
+        },
+        "links": [
+          {
+            "name": "self",
+            "displayName": "192",
+            "href": "https://challenger.marval.co.uk/MSM/api/serviceDesk/operational/knowledgeItems/192?includeLogicallyDeleted=False"
+          }
+        ]
+      },
+      {
+        "entity": {
+          "data": {
+            "id": 191,
+            "type": {
+              "prefix": "KE",
+              "id": 1,
+              "name": "Known Error"
+            },
+            "number": "KE-214",
+            "summary": "filtering By numbers",
+            "isPrivate": true,
+            "author": {
+              "id": 5238,
+              "name": "Tester, UI_Automation"
+            },
+            "service": null,
+            "status": {
+              "id": 2,
+              "name": "Planned"
+            },
+            "updatedOn": "2022-04-07T14:09:08.71Z",
+            "createdOn": "2022-03-31T14:15:35.08Z",
+            "nextReviewOn": null
+          },
+          "name": "KnowledgeItemIndexResponse"
+        },
+        "links": [
+          {
+            "name": "self",
+            "displayName": "191",
+            "href": "https://challenger.marval.co.uk/MSM/api/serviceDesk/operational/knowledgeItems/191?includeLogicallyDeleted=False"
+          }
+        ]
+      },
+      {
+        "entity": {
+          "data": {
+            "id": 190,
+            "type": {
+              "prefix": "KE",
+              "id": 1,
+              "name": "Known Error"
+            },
+            "number": "KE-213",
+            "summary": "testing CI people Long title Knowledge Item aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+            "isPrivate": false,
+            "author": {
+              "id": 5238,
+              "name": "Tester, UI_Automation"
+            },
+            "service": {
+              "id": 110,
+              "name": "AntiSpam"
+            },
+            "status": {
+              "id": 1,
+              "name": "Published"
+            },
+            "updatedOn": "2022-04-04T16:05:44.11Z",
+            "createdOn": "2022-03-30T08:57:59.033Z",
+            "nextReviewOn": null
+          },
+          "name": "KnowledgeItemIndexResponse"
+        },
+        "links": [
+          {
+            "name": "self",
+            "displayName": "190",
+            "href": "https://challenger.marval.co.uk/MSM/api/serviceDesk/operational/knowledgeItems/190?includeLogicallyDeleted=False"
+          }
+        ]
+      },
+      {
+        "entity": {
+          "data": {
+            "id": 189,
+            "type": {
+              "prefix": "FA",
+              "id": 2,
+              "name": "FAQ"
+            },
+            "number": "FA-212",
+            "summary": "third party check",
+            "isPrivate": true,
+            "author": {
+              "id": 5222,
+              "name": "Baranski, Arkadiusz 5222"
+            },
+            "service": null,
+            "status": {
+              "id": 2,
+              "name": "Planned"
+            },
+            "updatedOn": "2022-04-04T11:59:17.04Z",
+            "createdOn": "2022-03-29T17:19:42.247Z",
+            "nextReviewOn": null
+          },
+          "name": "KnowledgeItemIndexResponse"
+        },
+        "links": [
+          {
+            "name": "self",
+            "displayName": "189",
+            "href": "https://challenger.marval.co.uk/MSM/api/serviceDesk/operational/knowledgeItems/189?includeLogicallyDeleted=False"
+          }
+        ]
+      },
+      {
+        "entity": {
+          "data": {
+            "id": 188,
+            "type": {
+              "prefix": "KE",
+              "id": 1,
+              "name": "Known Error"
+            },
+            "number": "KE-211",
+            "summary": "Auto Test KI Summary",
+            "isPrivate": false,
+            "author": {
+              "id": 5280,
+              "name": "Horseman, Lennie"
+            },
+            "service": null,
+            "status": {
+              "id": 2,
+              "name": "Planned"
+            },
+            "updatedOn": "2022-04-04T09:51:47.977Z",
+            "createdOn": "2022-03-26T12:31:23.313Z",
+            "nextReviewOn": null
+          },
+          "name": "KnowledgeItemIndexResponse"
+        },
+        "links": [
+          {
+            "name": "self",
+            "displayName": "188",
+            "href": "https://challenger.marval.co.uk/MSM/api/serviceDesk/operational/knowledgeItems/188?includeLogicallyDeleted=False"
+          }
+        ]
+      }
+    ]
+  },
+  "links": [],
+  "forms": []
+}

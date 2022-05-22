@@ -1,0 +1,45 @@
+{
+  "forms": [
+    {
+      "name": "updateKnowledgeItemBasicDetails",
+      "displayName": "Update Knowledge Item Basic Details",
+      "fieldsets": [
+        {
+          "displayName": "Basic Details",
+          "fields": [
+            {
+              "name": "KnownErrorTypeId",
+              "displayName": "Knowledge Item Type",
+              "type": "select",
+              "xOptions": [
+                { "value": 2, "text": "FAQ" },
+                { "value": 5, "text": "Advice" },
+                { "value": 1, "text": "Known Error" }
+              ]
+            },
+            {
+              "name": "Status",
+              "displayName": "Lifecycle Status",
+              "type": "select",
+              "xOptions": [
+                { "value": 1, "text": "Published" },
+                { "value": 2, "text": "Planned" },
+                { "value": 3, "text": "Retired" }
+              ]
+            },
+            {
+              "name": "IsPrivate",
+              "displayName": "Is Private?",
+              "type": "checkbox"
+            },
+            {
+              "name": "Summary",
+              "displayName": "Summary",
+              "type": "text"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
